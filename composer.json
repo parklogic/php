@@ -1,0 +1,7 @@
+{
+    "name": "parklogic/dummy",
+    "description": "Dummy package for reserving the vendor namespace",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
